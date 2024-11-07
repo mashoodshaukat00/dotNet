@@ -1,0 +1,15 @@
+D:\Reop\dotnet\numbers\Numbers\bin\Debug\net8.0\Numbers.exe
+D:\Reop\dotnet\numbers\Numbers\bin\Debug\net8.0\Numbers.deps.json
+D:\Reop\dotnet\numbers\Numbers\bin\Debug\net8.0\Numbers.runtimeconfig.json
+D:\Reop\dotnet\numbers\Numbers\bin\Debug\net8.0\Numbers.dll
+D:\Reop\dotnet\numbers\Numbers\bin\Debug\net8.0\Numbers.pdb
+D:\Reop\dotnet\numbers\Numbers\obj\Debug\net8.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reop\dotnet\numbers\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfoInputs.cache
+D:\Reop\dotnet\numbers\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfo.cs
+D:\Reop\dotnet\numbers\Numbers\obj\Debug\net8.0\Numbers.csproj.CoreCompileInputs.cache
+D:\Reop\dotnet\numbers\Numbers\obj\Debug\net8.0\Numbers.sourcelink.json
+D:\Reop\dotnet\numbers\Numbers\obj\Debug\net8.0\Numbers.dll
+D:\Reop\dotnet\numbers\Numbers\obj\Debug\net8.0\refint\Numbers.dll
+D:\Reop\dotnet\numbers\Numbers\obj\Debug\net8.0\Numbers.pdb
+D:\Reop\dotnet\numbers\Numbers\obj\Debug\net8.0\Numbers.genruntimeconfig.cache
+D:\Reop\dotnet\numbers\Numbers\obj\Debug\net8.0\ref\Numbers.dll
