@@ -1,0 +1,14 @@
+D:\repo\dotnet\bin\Debug\net8.0\dotnet.exe
+D:\repo\dotnet\bin\Debug\net8.0\dotnet.deps.json
+D:\repo\dotnet\bin\Debug\net8.0\dotnet.runtimeconfig.json
+D:\repo\dotnet\bin\Debug\net8.0\dotnet.dll
+D:\repo\dotnet\bin\Debug\net8.0\dotnet.pdb
+D:\repo\dotnet\obj\Debug\net8.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\dotnet\obj\Debug\net8.0\dotnet.AssemblyInfoInputs.cache
+D:\repo\dotnet\obj\Debug\net8.0\dotnet.AssemblyInfo.cs
+D:\repo\dotnet\obj\Debug\net8.0\dotnet.csproj.CoreCompileInputs.cache
+D:\repo\dotnet\obj\Debug\net8.0\dotnet.dll
+D:\repo\dotnet\obj\Debug\net8.0\refint\dotnet.dll
+D:\repo\dotnet\obj\Debug\net8.0\dotnet.pdb
+D:\repo\dotnet\obj\Debug\net8.0\dotnet.genruntimeconfig.cache
+D:\repo\dotnet\obj\Debug\net8.0\ref\dotnet.dll
