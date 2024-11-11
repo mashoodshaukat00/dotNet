@@ -1,0 +1,15 @@
+D:\Reop\dotnet\EmployeeApp\bin\Debug\net8.0\EmployeeApp.exe
+D:\Reop\dotnet\EmployeeApp\bin\Debug\net8.0\EmployeeApp.deps.json
+D:\Reop\dotnet\EmployeeApp\bin\Debug\net8.0\EmployeeApp.runtimeconfig.json
+D:\Reop\dotnet\EmployeeApp\bin\Debug\net8.0\EmployeeApp.dll
+D:\Reop\dotnet\EmployeeApp\bin\Debug\net8.0\EmployeeApp.pdb
+D:\Reop\dotnet\EmployeeApp\obj\Debug\net8.0\EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reop\dotnet\EmployeeApp\obj\Debug\net8.0\EmployeeApp.AssemblyInfoInputs.cache
+D:\Reop\dotnet\EmployeeApp\obj\Debug\net8.0\EmployeeApp.AssemblyInfo.cs
+D:\Reop\dotnet\EmployeeApp\obj\Debug\net8.0\EmployeeApp.csproj.CoreCompileInputs.cache
+D:\Reop\dotnet\EmployeeApp\obj\Debug\net8.0\EmployeeApp.sourcelink.json
+D:\Reop\dotnet\EmployeeApp\obj\Debug\net8.0\EmployeeApp.dll
+D:\Reop\dotnet\EmployeeApp\obj\Debug\net8.0\refint\EmployeeApp.dll
+D:\Reop\dotnet\EmployeeApp\obj\Debug\net8.0\EmployeeApp.pdb
+D:\Reop\dotnet\EmployeeApp\obj\Debug\net8.0\EmployeeApp.genruntimeconfig.cache
+D:\Reop\dotnet\EmployeeApp\obj\Debug\net8.0\ref\EmployeeApp.dll
