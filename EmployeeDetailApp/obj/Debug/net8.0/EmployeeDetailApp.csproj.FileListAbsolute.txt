@@ -1,0 +1,15 @@
+D:\Reop\dotnet\EmployeeDetailApp\bin\Debug\net8.0\EmployeeDetailApp.exe
+D:\Reop\dotnet\EmployeeDetailApp\bin\Debug\net8.0\EmployeeDetailApp.deps.json
+D:\Reop\dotnet\EmployeeDetailApp\bin\Debug\net8.0\EmployeeDetailApp.runtimeconfig.json
+D:\Reop\dotnet\EmployeeDetailApp\bin\Debug\net8.0\EmployeeDetailApp.dll
+D:\Reop\dotnet\EmployeeDetailApp\bin\Debug\net8.0\EmployeeDetailApp.pdb
+D:\Reop\dotnet\EmployeeDetailApp\obj\Debug\net8.0\EmployeeDetailApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reop\dotnet\EmployeeDetailApp\obj\Debug\net8.0\EmployeeDetailApp.AssemblyInfoInputs.cache
+D:\Reop\dotnet\EmployeeDetailApp\obj\Debug\net8.0\EmployeeDetailApp.AssemblyInfo.cs
+D:\Reop\dotnet\EmployeeDetailApp\obj\Debug\net8.0\EmployeeDetailApp.csproj.CoreCompileInputs.cache
+D:\Reop\dotnet\EmployeeDetailApp\obj\Debug\net8.0\EmployeeDetailApp.sourcelink.json
+D:\Reop\dotnet\EmployeeDetailApp\obj\Debug\net8.0\EmployeeDetailApp.dll
+D:\Reop\dotnet\EmployeeDetailApp\obj\Debug\net8.0\refint\EmployeeDetailApp.dll
+D:\Reop\dotnet\EmployeeDetailApp\obj\Debug\net8.0\EmployeeDetailApp.pdb
+D:\Reop\dotnet\EmployeeDetailApp\obj\Debug\net8.0\EmployeeDetailApp.genruntimeconfig.cache
+D:\Reop\dotnet\EmployeeDetailApp\obj\Debug\net8.0\ref\EmployeeDetailApp.dll
